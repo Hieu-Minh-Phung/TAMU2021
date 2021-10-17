@@ -15,5 +15,7 @@ To prove our hypothesis, we explored some factors:
 5.Visualize to find the industry and gas emission that has the highest correlation
 
 Final result:
+
 ![image](https://user-images.githubusercontent.com/59891364/137635572-9ce42ef8-613a-4cbe-90d5-e78691284346.png)
+
 ![image](https://user-images.githubusercontent.com/59891364/137635575-289509b0-c0ef-4241-b804-6b2cd1de6534.png)
