@@ -7,11 +7,11 @@ We first explored the data with basic and find the unique attributes of the colu
  
 After that, we created a function to merge environmental and stock datasets together and plot them in a graph to check their correlation. We formed our hypothesis for the datasets: “There’s a correlation between Energy sector and the gas emissions level in the United States.”
 To prove our hypothesis, we explored some factors:
-1.Energy sector and number of stocks for each category\n
-2. N2O, CO2, and CH4 level from 2001 - 2021 in the United States\n
-3.Stocks by industry\n
-4.Correlation between energy sector stocks’ values vs gas emissions\n
-5.Visualize to find the industry and gas emission that has the highest correlation\n
+1.Energy sector and number of stocks for each category <br />
+2. N2O, CO2, and CH4 level from 2001 - 2021 in the United States <br />
+3.Stocks by industry <br />
+4.Correlation between energy sector stocks’ values vs gas emissions <br />
+5.Visualize to find the industry and gas emission that has the highest correlation <br />
 
 Final result:
 
