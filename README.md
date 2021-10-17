@@ -6,7 +6,7 @@ Zepl’s US Stock Market: https://www.snowflake.com/datasets/zepl-us-stock-marke
 We first explored the data with basic and find the unique attributes of the columns from all the datasets. We found out that there’s no linking attribute between stock and environmental factors. Therefore, we decided to check the correlation between gas emissions (primarily N2O, CH4 and CO2) and stocks in the US. To do that, we normalized environmental data and stock data with “Z-score normalization” technique, based on mean and standard deviation values of the data.
  
 After that, we created a function to merge environmental and stock datasets together and plot them in a graph to check their correlation. We formed our hypothesis for the datasets: “There’s a correlation between Energy sector and the gas emissions level in the United States.”
-To prove our hypothesis, we explored some factors:
+To prove our hypothesis, we explored some factors: <br />
 1.Energy sector and number of stocks for each category <br />
 2. N2O, CO2, and CH4 level from 2001 - 2021 in the United States <br />
 3.Stocks by industry <br />
