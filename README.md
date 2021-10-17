@@ -1,5 +1,5 @@
 # TAMU2021 
-In this challenge, we are provided with 2 data sources: Knoema’s Data Atlas and Zepl’s US Stock Market for Data Science. Our mission is to find the connection between these two data sources, seeing if there’s a visible impact among environmental factors and stock prices
+In this challenge, we are provided with 2 data sources: Knoema’s Data Atlas and Zepl’s US Stock Market for Data Science. Our mission is to find the connection between these two data sources, seeing if there’s a visible impact among environmental factors and stock prices <br />
 Knoema’s Data Atlas: https://www.snowflake.com/datasets/knoema-environment-data-atlas/ <br />
 Zepl’s US Stock Market: https://www.snowflake.com/datasets/zepl-us-stock-market-data-for-data-science/ <br />
 
